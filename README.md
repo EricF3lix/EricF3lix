@@ -10,7 +10,7 @@
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EricF3lix&show_icons=true&theme=tokyonight"/>
+
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricF3lix&layout=compact&theme=tokyonight"/>
 </div>
