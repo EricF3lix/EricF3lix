@@ -8,13 +8,6 @@
 ---
 
 ## Estatísticas GitHub
-
-<div align="center">
-
-
-  
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EricF3lix&theme=tokyonight"/>
 </div>
@@ -24,7 +17,7 @@
 ## Tecnologias de programação
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </div>
 
 ---
