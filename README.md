@@ -12,7 +12,7 @@
 <div align="center">
 
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricF3lix&layout=compact&theme=tokyonight"/>
+  
 </div>
 
 <div align="center">
