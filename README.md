@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Olá! Eric Felix aqui! </h1>
 
-<!--
-**EricF3lix/EricF3lix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   Estudante de Sistemas de Informação na UPE (3º período)<br>
+   Python | C | Power BI | Java | HTML/CSS/JS
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EricF3lix&show_icons=true&theme=tokyonight"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricF3lix&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EricF3lix&theme=tokyonight"/>
+</div>
+
+---
+
+## Tecnologias de programação
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github,vscode" />
+</div>
+
+---
+
+## Atualmente estudando
+
+- Programação Orientada a Objetos (Java)
+- Desenvolvimento Web
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eric-felix-9685a1390/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Eric%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/3ric_felix/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@3ric__felix-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+---
+
+<div align="center">
+
+### Sempre aprendendo e em busca de novos projetos.
+
+</div>
