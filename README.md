@@ -2,7 +2,7 @@
 
 <p align="center">
    Estudante de Sistemas de Informação na UPE (3º período)<br>
-   Python | C | Power BI | Java | HTML/CSS/JS
+   Python | Power BI | Java | HTML/CSS/JS
 </p>
 
 ---
