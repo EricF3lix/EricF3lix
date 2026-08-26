@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eric Felix aqui! </h1>
 
 <p align="center">
-   Estudante de Sistemas de Informação na UPE (3º período)<br>
+   Estudante de Sistemas de Informação na UPE (4º período)<br>
    Python | Power BI | Java | HTML/CSS/JS
 </p>
 
